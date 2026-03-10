@@ -35,20 +35,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dubpixel/dpx_inifinteKiCad">
+  <a href="https://github.com/dubpixel/dpx_infiniteKiCad">
     <img src="images/logo.png" alt="Logo" height="120">
   </a>
 
-<h1 align="center">dpx_inifinteKiCad </h1>
+<h1 align="center">dpx_infiniteKiCad </h1>
 <h3 align="center"><i>opens more copies of kicad</i></h3>
 
   <p align="center">
     ...opens another copy of kicad. most people feel this is expected behavior
     <br />
      » 
-    <a href="https://github.com/dubpixel/dpx_inifinteKiCad/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/dubpixel/dpx_infiniteKiCad/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
      » 
-    <a href="https://github.com/dubpixel/dpx_inifinteKiCad/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/dubpixel/dpx_infiniteKiCad/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
     </div>
     </p>
 </div>
@@ -197,7 +197,7 @@ you also can just download the binary under releases.
 
 - [x] Add Product Image?
 
-See the [open issues](https://github.com/dubpixel/dpx_inifinteKiCad/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/dubpixel/dpx_infiniteKiCad/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,8 +220,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/dubpixel/dpx_inifinteKiCad/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_inifinteKiCad" alt="contrib.rocks image" />
+<a href="https://github.com/dubpixel/dpx_infiniteKiCad/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_infiniteKiCad" alt="contrib.rocks image" />
 </a>
 
 
@@ -240,7 +240,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
   ### Joshua Fleitell - i@dubpixel.tv
 
-  Project Link: [https://github.com/dubpixel/dpx_inifinteKiCad](https://github.com/dubpixel/dpx_inifinteKiCad)
+  Project Link: [https://github.com/dubpixel/dpx_infiniteKiCad](https://github.com/dubpixel/dpx_infiniteKiCad)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,16 +258,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_inifinteKiCad.svg?style=for-the-badge
-[contributors-url]: https://github.com/dubpixel/dpx_inifinteKiCad/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_inifinteKiCad.svg?style=for-the-badge
-[forks-url]: https://github.com/dubpixel/dpx_inifinteKiCad/network/members
-[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_inifinteKiCad.svg?style=for-the-badge
-[stars-url]: https://github.com/dubpixel/dpx_inifinteKiCad/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_inifinteKiCad.svg?style=for-the-badge
-[issues-url]: https://github.com/dubpixel/dpx_inifinteKiCad/issues
-[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_inifinteKiCad.svg?style=for-the-badge
-[license-url]: https://github.com/dubpixel/dpx_inifinteKiCad/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_infiniteKiCad.svg?style=for-the-badge
+[contributors-url]: https://github.com/dubpixel/dpx_infiniteKiCad/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_infiniteKiCad.svg?style=for-the-badge
+[forks-url]: https://github.com/dubpixel/dpx_infiniteKiCad/network/members
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_infiniteKiCad.svg?style=for-the-badge
+[stars-url]: https://github.com/dubpixel/dpx_infiniteKiCad/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_infiniteKiCad.svg?style=for-the-badge
+[issues-url]: https://github.com/dubpixel/dpx_infiniteKiCad/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_infiniteKiCad.svg?style=for-the-badge
+[license-url]: https://github.com/dubpixel/dpx_infiniteKiCad/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jfleitell
 [product-front]: images/front.png
